@@ -309,10 +309,6 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 
 ---
 
-![https://github.com/bids-standard/bids-validator](assets/bids-validator.png)
-
----
-
 ## Official libraries
 
 - [PyBIDS][pybids]
@@ -333,6 +329,14 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 [heudiconv]: https://heudiconv.readthedocs.io/
 [clinica]: https://aramislab.paris.inria.fr/clinica/docs/public/latest/
 [bids-converters]: https://bids.neuroimaging.io/benefits.html#converters
+
+---
+
+## [Validator][bids-validator]
+
+![https://github.com/bids-standard/bids-validator](assets/bids-validator.png)
+
+[bids-validator]: https://bids-standard.github.io/bids-validator/
 
 ---
 
