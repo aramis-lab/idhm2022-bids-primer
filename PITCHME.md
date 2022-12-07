@@ -297,7 +297,6 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 
 - Publicly available datasets
 - Official tools and libraries
-- Third-party implementation
 
 ---
 
@@ -339,18 +338,6 @@ among [others][bids-converters]
 [heudiconv]: https://heudiconv.readthedocs.io/
 [clinica]: https://aramislab.paris.inria.fr/clinica/docs/public/latest/
 [bids-converters]: https://bids.neuroimaging.io/benefits.html#converters
-
----
-
-## Third-party libraries
-
-- [ancpbids] (raw and derivative datasets r/w)
-- [mne-bids] (focused on EEG and MEG)
-- [bidscoin] (schema-based conversion)
-
-[ancpbids]: https://ancpbids.readthedocs.io/
-[mne-bids]: https://mne.tools/mne-bids/
-[bidscoin]: https://bidscoin.readthedocs.io/
 
 ---
 
