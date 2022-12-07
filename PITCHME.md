@@ -297,6 +297,7 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 
 - Publicly available datasets
 - Official tools and libraries
+- Starter kit
 
 ---
 
@@ -305,10 +306,6 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 ---
 
 ![https://openneuro.org/](assets/openneuro.png)
-
----
-
-![https://bids-standard.github.io/bids-starter-kit/](assets/bids-starter-kit.png)
 
 ---
 
@@ -338,6 +335,12 @@ among [others][bids-converters]
 [heudiconv]: https://heudiconv.readthedocs.io/
 [clinica]: https://aramislab.paris.inria.fr/clinica/docs/public/latest/
 [bids-converters]: https://bids.neuroimaging.io/benefits.html#converters
+
+---
+
+## Starter kit
+
+![https://bids-standard.github.io/bids-starter-kit/](assets/bids-starter-kit.png)
 
 ---
 
