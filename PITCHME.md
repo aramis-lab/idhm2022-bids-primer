@@ -6,12 +6,12 @@ theme: default
 size: 16:9
 paginate: true
 _paginate: false
-footer: "Ghislain Vaillant – The Aramis Lab - Inria Digital Health Meetup 2022"
+footer: "Ghislain Vaillant | A primer to BIDS | Inria Digital Health Meetup 2022"
 ---
 
-# <!--fit--> A 10-minute primer to BIDS
+# <!--fit--> A primer to BIDS
 
-An introduction to the Brain Imaging Data Structure for busy engineers.
+A 10-minute (or so) introduction to the Brain Imaging Data Structure for busy engineers.
 
 ---
 
