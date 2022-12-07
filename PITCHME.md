@@ -1,7 +1,6 @@
 ---
 marp: true
 title: A primer to BIDS
-description: 10-minute introduction to the BIDS Imaging Data Structure
 theme: default
 size: 16:9
 paginate: true
