@@ -323,13 +323,11 @@ Modality-specific metadata computed by dictionary merging from root to leaf.
 
 ---
 
-## Converters
+## [Converters][bids-converters]
 
 - [dcm2niix: DICOM to NIfTI converter][dcm2niix]
 - [HeuDiConv: heuristic-centric DICOM converter][heudiconv]
 - [Clinica: software platform for clinical neuroimaging studies][clinica]
-
-among [others][bids-converters]
 
 [dcm2niix]: https://github.com/rordenlab/dcm2niix
 [heudiconv]: https://heudiconv.readthedocs.io/
@@ -338,9 +336,11 @@ among [others][bids-converters]
 
 ---
 
-## Starter kit
+## [Starter kit][bids-starter-kit]
 
 ![https://bids-standard.github.io/bids-starter-kit/](assets/bids-starter-kit.png)
+
+[bids-starter-kit]: https://bids-standard.github.io/bids-starter-kit/
 
 ---
 
