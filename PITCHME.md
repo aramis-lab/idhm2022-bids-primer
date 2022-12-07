@@ -161,7 +161,7 @@ derivatives/
 
 ## File collections
 
-- BIDS file naming convention
+- File naming convention
 - Components and entities
 - Derivatives
 
@@ -199,7 +199,7 @@ Extension: `.nii.gz`
 
 ---
 
-### Anatomy of a derivative
+### Derivatives
 
 ```
 sub-P01/
@@ -219,9 +219,9 @@ Derivative entities: `desc`
 
 ## Metadata
 
-- Modality-specific metadata
 - Modality-agnostic metadata
-- The inheritence principle
+- Modality-specific metadata
+- Inheritence principle
 
 ---
 
@@ -273,7 +273,7 @@ Example sidecar JSON metadata:
 
 ---
 
-### Metadata inheritence
+### Inheritence principle
 
 :warning: *OPTIONAL*
 
@@ -287,7 +287,7 @@ sub-P01/
             sub-P01_T1w.json            # Modality-specific overrides
 ```
 
-Modality-specific metadata computed by dictionary merging from top to bottom.
+Modality-specific metadata computed by dictionary merging from root to leaf.
 
 [bids-inheritence]: https://bids-specification.readthedocs.io/en/stable/02-common-principles.html#the-inheritance-principle
 
